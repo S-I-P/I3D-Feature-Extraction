@@ -1,0 +1,8 @@
+{
+    "height": 224,
+    "width" : 224,
+    "layer" : "Mixed_5c",
+    "fps" : 30,
+    "instance_size_seconds": 0.4,
+    "stride": 0.8
+}
