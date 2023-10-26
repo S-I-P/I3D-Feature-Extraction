@@ -70,5 +70,5 @@ To check how I3D features differ between videos in a real-world scenario and vid
 ```
 python plotMeanVar.py
 ```
-The plots in the [plots_txt](plots_txt) folder show the comparison between the [text-only frames of Normal_Videos381_x264.mp4]([TxtVideo) (blue in the plot) and videos from the abuse category (green in the plot). The difference is very clear for RGB features. But the flow features are related to motion, so in some cases, there is not much of a difference.
+The plots in the [plots_txt](plots_txt) folder show the comparison between the [text-only frames of Normal_Videos381_x264.mp4](https://drive.google.com/drive/u/0/folders/1pWIQCuoPmaDb4ZgWj7FAvyL12OKXKH_v) (blue in the plot) and videos from the abuse category (green in the plot). The difference is very clear for RGB features. But the flow features are related to motion, so in some cases, there is not much of a difference.
 ![](plots_txt/means/Abuse013_x264.mp4_RGB.png)
